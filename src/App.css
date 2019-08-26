@@ -31,3 +31,7 @@
     transform: rotate(360deg);
   }
 }
+
+.mapboxgl-marker {
+  background-image: "https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678111-map-marker-512.png"
+}
